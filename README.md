@@ -4,7 +4,7 @@
 
 SimpleBlog is a completely responsive personal blog website that is compatible with all mobile devices, has Dark and light themes, and is built using HTML, CSS, and JavaScript.
 
- <a href="[https://codingstella.github.io/personal-blog-website](http://htmlpreview.github.io/?https://github.com/AathanRW/personal-blog-website/blob/076487bf8f2d0f6cde14f7cf8810ae6b493e507c/index.html)/"><strong>➥ Live Demo</strong></a> 
+ <a href="http://htmlpreview.github.io/?https://github.com/AathanRW/personal-blog-website/blob/076487bf8f2d0f6cde14f7cf8810ae6b493e507c/index.html"><strong>➥ Live Demo</strong></a> 
  
  </div>
 
